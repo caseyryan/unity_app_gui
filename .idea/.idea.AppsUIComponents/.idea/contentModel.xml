@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Konstantin\.Rider2018.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Konstantin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Konstantin\.Rider2018.3\system\resharper-host\Local\Transient\ReSharperHost\v183\SolutionCaches\_AppsUIComponents.135011713.00" t="ExcludeRecursive" />
+    <e p="F:\UnityProjects\AppsUIComponents" t="IncludeRecursive">
+      <e p="AppsUIComponents.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Components" t="Include">
+          <e p="ActionBar" t="Include">
+            <e p="ActionBar.cs" t="Include" />
+          </e>
+          <e p="Attributes" t="Include">
+            <e p="ComponentAttributes.cs" t="Include" />
+          </e>
+          <e p="Calendars" t="Include">
+            <e p="BigMonthView.cs" t="Include" />
+            <e p="IntervalCalendar.cs" t="Include" />
+          </e>
+          <e p="Clickable" t="Include">
+            <e p="AnimatableButton.cs" t="Include" />
+            <e p="HamburgerMenuButton.cs" t="Include" />
+            <e p="Toggle.cs" t="Include" />
+          </e>
+          <e p="ComponentBehaviour.cs" t="Include" />
+          <e p="ComponentHolder.cs" t="Include" />
+          <e p="ComponentUtils.cs" t="Include" />
+          <e p="ContainerVerticalResizer.cs" t="Include" />
+          <e p="Drawer" t="Include">
+            <e p="NavigationDrawer.cs" t="Include" />
+            <e p="NavigationDrawerPanel.cs" t="Include" />
+            <e p="NavigationDrawerPosition.cs" t="Include" />
+            <e p="NavigationDrawerSidePanel.cs" t="Include" />
+          </e>
+          <e p="DrawerSettingsPanel.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="NiceUIMenus.cs" t="Include" />
+            <e p="NiceUIThemeEditor.cs" t="Include" />
+          </e>
+          <e p="Extensions.cs" t="Include" />
+          <e p="HorizontalProgressBar.cs" t="Include" />
+          <e p="InputNumberFormatter.cs" t="Include" />
+          <e p="InteractiveObject.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IScrollable.cs" t="Include" />
+          </e>
+          <e p="Localization" t="Include">
+            <e p="Localization.cs" t="Include" />
+          </e>
+          <e p="Pages" t="Include">
+            <e p="PageBase.cs" t="Include" />
+            <e p="ParallaxScrollPage.cs" t="Include" />
+          </e>
+          <e p="Position.cs" t="Include" />
+          <e p="ProgressBar.cs" t="Include" />
+          <e p="QuickScrollerVertical.cs" t="Include" />
+          <e p="Texts" t="Include">
+            <e p="CalendarDateCell.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DOTween" t="Include">
+          <e p="Modules" t="Include">
+            <e p="DOTweenModuleAudio.cs" t="Include" />
+            <e p="DOTweenModulePhysics.cs" t="Include" />
+            <e p="DOTweenModulePhysics2D.cs" t="Include" />
+            <e p="DOTweenModuleSprite.cs" t="Include" />
+            <e p="DOTweenModuleUI.cs" t="Include" />
+            <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+            <e p="DOTweenModuleUtils.cs" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+        </e>
+        <e p="UIController.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
